@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, C++
 - Nothing yet still learning alot of things
 - 📫 How to reach me @fitzpats101@gmail.com
+- A student at CELEBRATION INTERNATIONAL SCHOOL Zimbabwe.
 
 <!---
 Radicalmode/Radicalmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

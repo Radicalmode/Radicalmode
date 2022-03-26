@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radicalmode
 - 👀 I’m interested in programming, coding, robotics, ethical hacking.
 - 🌱 I’m currently learning python, C++
-Nothing yet still learning alot of things
+- Nothing yet still learning alot of things
 - 📫 How to reach me @fitzpats101@gmail.com
 
 <!---

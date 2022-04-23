@@ -4,6 +4,8 @@
 - Nothing yet still learning alot of things
 - 📫 How to reach me @fitzpats101@gmail.com
 - A student at CELEBRATION INTERNATIONAL SCHOOL Zimbabwe.
+- Drean University is MIT
+- Occupation is still undecided
 
 <!---
 Radicalmode/Radicalmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

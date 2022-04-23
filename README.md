@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, C++
 - Nothing yet still learning alot of things
 - 📫 How to reach me @fitzpats101@gmail.com
-- A student at CELEBRATION INTERNATIONAL SCHOOL Zimbabwe.
+- I'm a 15 year old student at CELEBRATION INTERNATIONAL SCHOOL Zimbabwe.
 - Drean University is MIT
 - Occupation is still undecided
 
